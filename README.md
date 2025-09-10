@@ -1,4 +1,5 @@
 ![Stunning Paris Airbnb](https://www.telegraph.co.uk/content/dam/travel/2023/03/22/TELEMMGLPICT000329840525_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwSX5rhseiWKOo9p9OQ-ymek.jpeg?imwidth=640)
+
 [Click here to see full analysis](https://www.kaggle.com/code/adityatarwatkar26/airbnb-final-project/edit/run/260608138)
 # 🏠 Airbnb Paris Analysis
 
